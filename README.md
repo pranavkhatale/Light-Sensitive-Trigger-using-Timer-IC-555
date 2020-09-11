@@ -4,4 +4,5 @@ Light sensitive trigger circuit activates a relay upon detecting the absence of 
 ![Project Image](https://github.com/pranavkhatale/Light-Sensitive-Trigger-using-Timer-IC-555/blob/master/Project%20Image.jpg?raw=true)
 
 For Schematic Diagram & parts list of this project visit [Wiki](https://github.com/pranavkhatale/Light-Sensitive-Trigger-using-Timer-IC-555/wiki/) page of this repository.
-Actaully while completing this project in my early college days I have no Camera to capture photos of this project for your reference, but I documented it well at that time on my Project book. The Image developed using Fritzing will help you to get clear idea of this project.
+
+Actaully while completing this project in my early college days I have no Camera to capture photos of this project for your reference, but I documented it well at that time within my Project book. But the Image developed using Fritzing will really help you to get clear idea of this project.
